@@ -1,0 +1,7 @@
+DEBUG   2021-12-22 22:28:23,780 [main] devpinoyLogger  - Inside the setUp process
+DEBUG   2021-12-22 22:28:23,780 [main] devpinoyLogger  - Loaded config file
+DEBUG   2021-12-22 22:28:23,781 [main] devpinoyLogger  - Loaded OR file
+DEBUG   2021-12-22 22:28:25,946 [main] devpinoyLogger  - Browser initiated
+DEBUG   2021-12-22 22:28:28,491 [main] devpinoyLogger  - Inside the ColleagueTest()
+DEBUG   2021-12-22 22:28:38,699 [main] devpinoyLogger  - Inside the loginTest()
+DEBUG   2021-12-22 22:28:45,608 [main] devpinoyLogger  - complete the tear down
